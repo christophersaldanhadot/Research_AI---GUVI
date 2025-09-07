@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 import google.generativeai as genai
-from serpapi import GoogleSearch
+from google_search_results import GoogleSearch
 import newspaper
 from urllib.parse import urlparse
 from fpdf import FPDF

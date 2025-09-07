@@ -1,1 +1,6 @@
+source /app/.venv/bin/activate
+pip uninstall serpapi -y
+pip install google-search-results
+
+
 web: streamlit run AI_Researcher.py --server.port $PORT --server.address 0.0.0.0

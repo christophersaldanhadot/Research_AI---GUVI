@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+serpapi
+newspaper3k
+fpdf2
+requests
+beautifulsoup4
+python-dotenv

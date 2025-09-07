@@ -62,5 +62,5 @@ SERPAPI_API_KEY="YOUR_SERPAPI_API_KEY"
 
 Run the Streamlit app:
 
-streamlit run app.py
+streamlit run AI_Researcher.py
 s

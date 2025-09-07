@@ -1,1 +1,1 @@
-web: streamlit run guvi.py --server.port $PORT --server.address 0.0.0.0
+web: streamlit run AI_Researcher.py --server.port $PORT --server.address 0.0.0.0
